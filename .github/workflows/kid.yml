@@ -1,8 +1,8 @@
 name: Update Jio (__hdnea__) + Zee5 (hdntl) tokens in kid.json
 
 on:
-  schedule:
-    - cron: '0 */11 * * *'  # every 11 hours
+#  schedule:
+ #   - cron: '0 */11 * * *'  # every 11 hours
   workflow_dispatch:
 
 jobs:
